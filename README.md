@@ -6,6 +6,12 @@
 
 Append ?raw=true to any file URL on Github to get the direct link.
 
-After the file has been uploaded to Github, click the filename in the list and you’ll get the file’s URL in the browser’s address. Append ?raw=true to the URL and you get a downloadable / embeddable version.
+After the file has been uploaded to Github, click the filename in the list and you’ll get the file’s URL in the browser’s address. Append *?raw=true* to the URL and you get a downloadable / embeddable version.
 
-For instance, if the file URL is github.com/labnol/files/hello.pdf, the direct link to the same file would be github.com/labnol/files/hello.pdf?raw=true. If the uploaded file is an image, you can even embed it in your website using the standard img tag.
+For instance, if the file URL is *github.com/labnol/files/hello.pdf*, 
+
+the direct link to the same file would be 
+
+*github.com/labnol/files/hello.pdf?raw=true*. 
+
+If the uploaded file is an image, you can even embed it in your website using the standard img tag.
