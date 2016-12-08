@@ -4,6 +4,12 @@
 
 ####2. [Github Gists for Non-Developers](http://www.labnol.org/internet/github-gist-tutorial/28499/)
 
+
+----------
+
+**Direct URLs for Github Files**
+---------
+
 Append ?raw=true to any file URL on Github to get the direct link.
 
 After the file has been uploaded to Github, click the filename in the list and you’ll get the file’s URL in the browser’s address. Append *?raw=true* to the URL and you get a downloadable / embeddable version.
