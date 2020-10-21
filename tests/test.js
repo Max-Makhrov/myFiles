@@ -1,3 +1,1 @@
-function me() {
-  console.log('Hello me!');
-}
+console.log('Really?')
