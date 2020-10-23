@@ -1,1 +1,3 @@
-console.log('You did it =)')
+function test() {
+console.log('You did it =)
+}')
