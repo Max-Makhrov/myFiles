@@ -1,1 +1,1 @@
-All data here comes from Google Sheets e.g. Hello World!
+All data here comes from Google Sheets.
